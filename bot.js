@@ -55,4 +55,4 @@ if (message.content.startsWith(prefix + 'setgame')) {
 });
 
 
-client.login("Mjg3MTYzNzE2NDEwMjc3ODk5.XLDLQA.X9gIR8yBHHtpgdhiM_jXvZgzfFI");
+client.login(cepross.env.BOT_TOKcEN);
